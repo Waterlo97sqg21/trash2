@@ -16,4 +16,4 @@ print("Enter two digital")
 q = int(input())
 w = int(input())
 s = q + w
-print("suma q+w=", q, "+", w, "=", s)
+print("suma 7+0 =", q, "+", w, "=", s)
