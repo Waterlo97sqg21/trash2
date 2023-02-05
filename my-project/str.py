@@ -2,11 +2,12 @@ print("Firstly when we use input(),our variable will string type")
 print("Enter two digital,please!")
 a = input()
 b = input()
+
 s = a + b
-print(s)
+print("sum",a,"+",b,"=",s)
 print("NEXT...")
 first = 5
-second = '7'
+second = 7
 print(first * second)
 first = '5'
 second = '7'
