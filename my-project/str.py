@@ -5,7 +5,6 @@ b = input()
 
 s = a + b
 print("sum",a,"+",b,"=",s)
-print('Summa: ' , s)
 print("NEXT...")
 first = 5
 second = 7
