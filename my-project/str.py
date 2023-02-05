@@ -14,7 +14,7 @@ second = '7'
 print(int(first) * int(second))
 print("NEXT")
 print("Enter two digital")
-q = int(input())  8
+q = int(input())
 
 
 w = int(input())
