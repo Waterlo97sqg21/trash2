@@ -13,9 +13,13 @@ first = '5'
 second = '7'
 print(int(first) * int(second))
 print("NEXT")
-print("Enter two digital')
-q = int(input());
+print("Enter two digital")
+q = int(input())
+
+
 w = int(input())
+
+
 s = q + w
 # print("suma q+w=", q, "+", w, "=", s)
 print(f'suma q+w={q} + {w} = {s}')
