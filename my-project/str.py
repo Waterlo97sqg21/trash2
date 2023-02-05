@@ -6,7 +6,7 @@ s = a + b
 print(s)
 print("NEXT...")
 first = 5
-second = 7
+second = '7'
 print(first * second)
 first = '5'
 second = '7'
